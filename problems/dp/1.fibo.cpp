@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+//using memoization
 int foo(int n, vector <int>  &dp){
 
     if (n==0){

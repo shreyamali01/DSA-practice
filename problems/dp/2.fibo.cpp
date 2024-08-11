@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+//using tabulation
+
 int foo(int n){
     int prev1 = 0;
     int prev2 = 1;
